@@ -11,3 +11,5 @@ __pycache__/
 .cache/
 
 docs/_build_html/
+
+.idea
