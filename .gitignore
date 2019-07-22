@@ -13,5 +13,4 @@ __pycache__/
 docs/_build_html/
 
 .idea
-osmnames/settings_default.py
-osmnames/settings_testing.py
+.env
